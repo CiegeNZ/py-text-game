@@ -1,3 +1,7 @@
+#Don't commit save files
+things.txt
+thingMakers.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
